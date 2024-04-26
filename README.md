@@ -27,3 +27,7 @@ This is my second commit!!!
 **Remote images**
 
 ![An image of a cat](http://placekitten.com/200/300)
+
+**Local images**
+
+![The Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)

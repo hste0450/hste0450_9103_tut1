@@ -15,3 +15,10 @@ This is my second commit!!!
 **Bold text**
 
 *Italic text*
+
+**Lists**
+
+- Item 1
+- Item 2
+    - Sub item 1
+    - Sub item 2
